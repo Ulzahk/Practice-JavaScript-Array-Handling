@@ -1,0 +1,23 @@
+{
+  "name": "practice-javascript-array-handling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulzahk/Practice-JavaScript-Array-Handling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ulzahk/Practice-JavaScript-Array-Handling/issues"
+  },
+  "homepage": "https://github.com/Ulzahk/Practice-JavaScript-Array-Handling#readme",
+  "dependencies": {
+    "http-server": "^13.0.2"
+  }
+}
