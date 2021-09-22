@@ -1,8 +1,8 @@
-const letter = ["a", "b", "c"];
+const letters = ["a", "b", "c"];
 
-for (let index = 0; index < letter.length; index++) {
-  const element = letter[index];
+for (let index = 0; index < letters.length; index++) {
+  const element = letters[index];
   console.log("for", element);
 }
 
-letter.forEach(item => console.log("forEach", item));
+letters.forEach(item => console.log("forEach", item));
